@@ -23,3 +23,6 @@ body{
 .card-header {
     background-color: white; border-color: black;
 }
+body{
+    background-color: black;
+}
